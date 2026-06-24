@@ -1,4 +1,4 @@
-# SQLMuderMystery
+# SQLMurderMystery
 
 This project contains my implementation of the SQL Murder Mystery. This is an interactive exercise in which you use SQL queries to search a database and solve a fictional murder case.
 
